@@ -90,10 +90,10 @@ class MazenAyman extends FlutterDeveloper {
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🛒 **Project 1** | E-Commerce / Shopping App | Flutter · Firebase · BLoC |
-| 💬 **Project 2** | Chat / Messaging App | Flutter · Supabase |
-| 📋 **Project 3** | Task Manager App | Flutter · SQLite |
-| 🎨 **Project 4** | UI-focused App | Flutter · Animations |
+| 🛒 **Project 1** | E-Commerce / Shopping App | HTML · CSS · JAVA SCRIPT |
+| 💬 **Project 2** | Facebook Clone App | Flutter  |
+| 📋 **Project 3** | Contact App | Flutter ·  |
+| 🎨 **Project 4** | Space-X App | Flutter · 3D Animations |
 | 🤖 **Project 5** | AI-integrated App | Flutter · REST API |
 | 📊 **Project 6** | Data Dashboard App | Flutter · Charts |
 
@@ -124,9 +124,9 @@ class MazenAyman extends FlutterDeveloper {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mazen--ayman.netlify.app-6C63FF?style=for-the-badge&logo=netlify&logoColor=white)](https://mazen-ayman.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mazen%20Ayman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-MazenAyman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MazenAyman)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mazen%20Ayman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazen-ayman0?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![GitHub](https://img.shields.io/badge/GitHub-MazenAyman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mazen-Ayman-1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201153532383)
 
 </div>
 
