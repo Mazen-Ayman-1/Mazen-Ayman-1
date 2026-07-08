@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Mazen%20Ayman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="[https://mazen-ayman.netlify.app](https://mazen-protofolio.vercel.app/)">
+<a href="[https://mazen-protofolio.vercel.app]">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Flutter+Developer+%F0%9F%92%99;Mobile+App+Craftsman+%F0%9F%93%B1;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
@@ -86,7 +86,7 @@ class MazenAyman extends FlutterDeveloper {
 
 ## 🚀 Featured Projects
 
-> 📌 *Check my [Portfolio]([https://mazen-ayman.netlify.app](https://mazen-protofolio.vercel.app/)) for full project details & live demos*
+> 📌 *Check my [Portfolio]([https://mazen-protofolio.vercel.app]) for full project details & live demos*
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -105,7 +105,7 @@ class MazenAyman extends FlutterDeveloper {
 
 <div align="center">
 
-🎓 Certified and constantly leveling up — *see full list on my [portfolio](https://mazen-ayman.netlify.app/#certificates)*
+🎓 Certified and constantly leveling up — *see full list on my [portfolio](https://mazen-protofolio.vercel.app//#certificates)*
 
 </div>
 
