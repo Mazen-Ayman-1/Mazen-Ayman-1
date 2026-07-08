@@ -86,7 +86,7 @@ class MazenAyman extends FlutterDeveloper {
 
 ## 🚀 Featured Projects
 
-> 📌 *Check my [Portfolio](https://mazen-ayman.netlify.app) for full project details & live demos*
+> 📌 *Check my [Portfolio]([https://mazen-ayman.netlify.app](https://mazen-protofolio.vercel.app/)) for full project details & live demos*
 
 | Project | Description | Tech |
 |---------|-------------|------|
