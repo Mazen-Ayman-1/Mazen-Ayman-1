@@ -15,40 +15,37 @@
     <td align="center" width="33%">
       <h3>Mobile</h3>
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutter-original.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dart-original.svg" alt="Dart" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apple-original.svg" alt="iOS" height="50" />  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin" alt="Mobile skills" />
 </div>
-
 
 </td>    <td align="center" width="33%">
 
 
 ### State Management  
 
-<div align="center">  
-<a href="https://bloclibrary.dev/" target="_blank"><img style="margin: 10px" src="https://bloclibrary.dev/assets/bloc_logo_full.png" alt="Bloc" height="50" /></a>  
-<a href="https://riverpod.dev/" target="_blank"><img style="margin: 10px" src="https://riverpod.dev/img/logo.svg" alt="Riverpod" height="50" /></a>  
-<a href="https://pub.dev/packages/provider" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dart-original.svg" alt="Provider" height="50" /></a>  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+<br/>
+Bloc &nbsp;•&nbsp; Riverpod &nbsp;•&nbsp; Provider
 </div>
 
 </td><td valign="top">
 
 <h3 align="center"> Backend & Tools </h3>
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase-plain.svg" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postman-original.svg" alt="Postman" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firestore.svg" alt="REST APIs" height="50" />  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma" alt="Tools" />
 </div>
 
 </td></tr></table>  
 
 <br/>  
 
-[![Mazen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mazen-Ayman-1&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[
+
+![Mazen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mazen-Ayman-1&theme=gotham)
+
+](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
