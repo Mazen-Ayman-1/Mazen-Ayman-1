@@ -22,7 +22,28 @@
 </td>    <td align="center" width="33%">
 
 
-### State Management  
+### Languages & CS Fundamentals
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,java,dart" alt="Languages" />
+<br/>
+Data Structures &nbsp;•&nbsp; Algorithms
+</div>
+
+</td><td valign="top">
+
+<h3 align="center"> Web & Backend </h3>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,mongodb" alt="Web and Backend" />
+</div>
+
+</td></tr></table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+
+### State Management
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
@@ -30,9 +51,9 @@
 Bloc &nbsp;•&nbsp; Riverpod &nbsp;•&nbsp; Provider
 </div>
 
-</td><td valign="top">
+</td><td align="center" width="33%">
 
-<h3 align="center"> Backend & Tools </h3>
+<h3> Tools </h3>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma" alt="Tools" />
 </div>
