@@ -35,7 +35,6 @@ class MazenAyman extends FlutterDeveloper {
     "Great UX ✨",
   ];
 
-
   @override
   String toString() => "Building apps users love, one widget at a time.";
 }
@@ -88,8 +87,8 @@ class MazenAyman extends FlutterDeveloper {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mazen-Ayman-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=ffffff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazen-Ayman-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mazen-Ayman-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=ffffff&cache_seconds=86400" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazen-Ayman-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&cache_seconds=86400" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Mazen-Ayman-1&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=00D4FF&currStreakLabel=ffffff&sideLabels=ffffff" width="100%" height="170"/>
 
