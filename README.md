@@ -87,11 +87,12 @@ class MazenAyman extends FlutterDeveloper {
 
 <div align="center">
 
-<img src="./github-metrics.svg" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Mazen-Ayman-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=ffffff" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mazen-Ayman-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=Mazen-Ayman-1&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=00D4FF&currStreakLabel=ffffff&sideLabels=ffffff" width="100%" height="170"/>
 
 </div>
-
-> ℹ️ *This card is generated automatically by a GitHub Action and stored directly in this repo — no external server, so it always works. See setup instructions below.*
 
 ---
 
