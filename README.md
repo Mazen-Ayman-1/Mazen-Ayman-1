@@ -106,8 +106,8 @@ class MazenAyman extends FlutterDeveloper {
 | 💬 **Project 2** | Facebook Clone App | Flutter |
 | 📋 **Project 3** | Contact App | Flutter |
 | 🎨 **Project 4** | Space-X App | Flutter · 3D Animations |
-| 🤖 **Project 5** | AI-integrated App | Flutter · REST API |
-| 📊 **Project 6** | Data Dashboard App | Flutter · Charts |
+| 🤖 **Project 5** | News App | Flutter · REST API |
+| 📊 **Project 6** | Library Managment System | React & Node js ·Swagger Formik Yup |
 
 > ⚠️ *Replace the table above with your actual project names and descriptions!*
 
