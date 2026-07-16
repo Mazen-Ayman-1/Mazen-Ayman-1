@@ -25,7 +25,7 @@ class MazenAyman extends FlutterDeveloper {
   final String role     = "Flutter Developer";
   final String focus    = "Beautiful & Performant Mobile Apps";
   final int    exp      = 1; // year+
-  final int    projects = 6; // and counting...
+  final int    projects = 13; // and counting...
 
   @override
   List<String> get passions => [
